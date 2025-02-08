@@ -1,0 +1,2 @@
+# LevelDB_DEMO
+LevelDB Demo Project 欢迎来到LevelDB Demo项目！本项目旨在通过一系列的示例代码，展示如何在实际应用中使用LevelDB数据库。LevelDB是由Google开发的一个快速键值存储库，它提供了基本的键值对存储功能，并支持高效的读写操作。
