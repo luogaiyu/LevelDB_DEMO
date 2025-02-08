@@ -34,3 +34,6 @@ make
 
 ## 许可证
 本项目采用MIT许可证，详情参见 LICENSE 文件。
+
+## 参考信息
+b站链接: https://www.bilibili.com/video/BV1wu4m1u7Vu?spm_id_from=333.788.videopod.sections&vd_source=843c61b5b2e08729a01e31914d159fc4
